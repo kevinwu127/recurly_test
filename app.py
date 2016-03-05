@@ -37,4 +37,4 @@ def new_subscription():
 		return ', '.join(e.message for e in errors)
 
 if __name__ == "__main__":
-	app.run('127.0.0.1', 9001)
+	app.run()
