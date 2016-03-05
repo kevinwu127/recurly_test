@@ -233,3 +233,7 @@ figure.success {
   color: #2c0730;
   z-index: 10;
 }
+
+.success {
+  color: #5cb85c;
+}
